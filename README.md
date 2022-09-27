@@ -1,2 +1,2 @@
 # devops nilu
-opening the github
+oper the github
